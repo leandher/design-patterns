@@ -1,4 +1,4 @@
-package visitor;
+package bridge;
 
 public class Main {
 
