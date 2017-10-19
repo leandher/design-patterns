@@ -4,13 +4,13 @@ public class Corrida {
 	private int velocidade = 0;
 	
 	public void acelerar() {
-		velocidade+=10;
+		velocidade+=20;
 		System.out.println("Acelerar");
 		System.out.println(velocidade+"Km/h");
 	}
 	
 	public void freiar() {
-		velocidade-=10;
+		velocidade-=5;
 		System.out.println("Freiar");
 		System.out.println(velocidade+"Km/h");
 	}
