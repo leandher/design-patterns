@@ -5,3 +5,9 @@
 /template-method/
 /visitor/
 /templateMethod/
+/abstractFactory/
+/adapter/
+/builder/
+/iterator/
+/mediator/
+/memento/
